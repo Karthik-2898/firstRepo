@@ -1,2 +1,2 @@
 print ("Hello World!")
-print ("Welcom to CICD session")
+print ("Welcome you all to CICD session !")
